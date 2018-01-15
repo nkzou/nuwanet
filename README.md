@@ -1,3 +1,5 @@
 # NuwaNet
 
-SC2 Bot, WIP
+SC2 Bot using PySC2
+
+Currently WIP
